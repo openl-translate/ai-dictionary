@@ -2,7 +2,7 @@
 
 A dictionary of common AI terms.
 
-English · [简体中文](/local/README-zh_CN.md)
+English · [中文](/local/README-zh_CN.md) · [日本語](/local/README-ja.md) · [Français](/local/README-fr.md) · [Español](/local/README-es.md)
 
 > Made by [OpenL Translate](https://openl.io/)
 

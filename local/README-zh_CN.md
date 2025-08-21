@@ -2,7 +2,7 @@
 
 常见 AI 术语词典。
 
-[English](/README.md) · 简体中文
+[English](/README.md) · 中文 · [日本語](/local/README-ja.md) · [Français](/local/README-fr.md) · [Español](/local/README-es.md)
 
 > 由 [OpenL Translate](https://openl.io/) 制作
 
@@ -24,29 +24,29 @@
 
 | 术语 | 发音 | 定义 |
 | --- | ----------- | ----------- |
-| AGI | [🔊](https://dict.youdao.com/dictvoice?audio=AGI&type=1) /eɪ dʒi aɪ/ | 通用人工智能，假设具有人类水平认知能力的AI，能跨所有领域工作。 |
-| ASI | [🔊](https://dict.youdao.com/dictvoice?audio=ASI&type=1) /eɪ es aɪ/ | 超级人工智能，假设在所有领域都超越人类智能的AI。 |
+| AGI | [🔊](https://dict.youdao.com/dictvoice?audio=AGI&type=1) /eɪ dʒi aɪ/ | 通用人工智能，假设具有人类水平认知能力的 AI，能跨所有领域工作。 |
+| ASI | [🔊](https://dict.youdao.com/dictvoice?audio=ASI&type=1) /eɪ es aɪ/ | 超级人工智能，假设在所有领域都超越人类智能的 AI。 |
 | AI | [🔊](https://dict.youdao.com/dictvoice?audio=AI&type=1) /eɪ aɪ/ | 人工智能，能够执行需要人类智能的任务的计算机系统。 |
 | Algorithm | [🔊](https://dict.youdao.com/dictvoice?audio=algorithm&type=1) /ˈælɡərɪðəm/ | 用于解决问题或执行计算的一套规则或指令。 |
-| Automation | [🔊](https://dict.youdao.com/dictvoice?audio=automation&type=1) /ˌɔːtəˈmeɪʃən/ | 使用AI在无人干预的情况下执行任务。 |
+| Automation | [🔊](https://dict.youdao.com/dictvoice?audio=automation&type=1) /ˌɔːtəˈmeɪʃən/ | 使用 AI 在无人干预的情况下执行任务。 |
 | Chatbot | [🔊](https://ssl.gstatic.com/dictionary/static/sounds/oxford/chatbot--_us_1.mp3) /ˈtʃætbɑːt/ | 设计用来模拟与人类对话的计算机程序。 |
-| Constitutional AI | /ˌkɑːnstəˈtuːʃənəl eɪ aɪ/ | 教导AI遵循一套原则的训练方法。 |
+| Constitutional AI | /ˌkɑːnstəˈtuːʃənəl eɪ aɪ/ | 教导 AI 遵循一套原则的训练方法。 |
 | Conversational AI | /ˌkɑːnvərˈseɪʃənəl eɪ aɪ/ | 使人类与机器能够进行自然对话的技术。 |
 | Foundation Models | /faʊnˈdeɪʃən ˈmɑːdəlz/ | 在多样化数据上训练的大规模模型，作为许多应用的基础。 |
-| Generative AI | [🔊](https://dict.youdao.com/dictvoice?audio=Generative+AI&type=1) /ˈdʒenərətɪv eɪ aɪ/ | 基于训练数据生成文本、图像、音频或视频等新内容的AI系统。 |
-| Hallucination | [🔊](https://dict.youdao.com/dictvoice?audio=hallucination&type=1) /həˌluːsɪˈneɪʃən/ | AI生成虚假或荒谬信息并将其表述为事实的现象。 |
+| Generative AI | [🔊](https://dict.youdao.com/dictvoice?audio=Generative+AI&type=1) /ˈdʒenərətɪv eɪ aɪ/ | 基于训练数据生成文本、图像、音频或视频等新内容的 AI 系统。 |
+| Hallucination | [🔊](https://dict.youdao.com/dictvoice?audio=hallucination&type=1) /həˌluːsɪˈneɪʃən/ | AI 生成虚假或荒谬信息并将其表述为事实的现象。 |
 | Model | [🔊](https://dict.youdao.com/dictvoice?audio=model&type=1) /ˈmɑːdəl/ | 机器学习算法在数据上训练的输出，用于进行预测。 |
-| Multimodal | [🔊](https://dict.youdao.com/dictvoice?audio=multimodal&type=1) /ˌmʌltiˈmoʊdəl/ | 能够处理多种类型数据（文本、图像、音频）的AI系统。 |
-| Reasoning Models | /ˈrizənɪŋ ˈmɑːdəlz/ | 设计用于执行逐步问题解决的AI模型。 |
+| Multimodal | [🔊](https://dict.youdao.com/dictvoice?audio=multimodal&type=1) /ˌmʌltiˈmoʊdəl/ | 能够处理多种类型数据（文本、图像、音频）的 AI 系统。 |
+| Reasoning Models | /ˈrizənɪŋ ˈmɑːdəlz/ | 设计用于执行逐步问题解决的 AI 模型。 |
 | Diffusion Models | /dɪˈfjuːʒən ˈmɑːdəlz/ | 通过逐渐对随机输入去噪来创建数据的生成模型。 |
-| RLHF | /ɑːr el eɪtʃ ef/ | 人类反馈强化学习，用于训练ChatGPT等模型的技术。 |
+| RLHF | /ɑːr el eɪtʃ ef/ | 人类反馈强化学习，用于训练 ChatGPT 等模型的技术。 |
 | In-Context Learning | /ɪn ˈkɑːntekst ˈlɜːrnɪŋ/ | 模型从输入提示中提供的示例中学习和适应的能力。 |
-| Chain-of-Thought | /tʃeɪn ʌv θɔːt/ | 鼓励AI响应中逐步推理的提示技术。 |
+| Chain-of-Thought | /tʃeɪn ʌv θɔːt/ | 鼓励 AI 响应中逐步推理的提示技术。 |
 | Autonomous | [🔊](https://dict.youdao.com/dictvoice?audio=autonomous&type=1) /ɔːˈtɑːnəməs/ | 能够在无需人类干预的情况下执行任务的机器。 |
-| AI Agents | /eɪ aɪ ˈeɪdʒənts/ | 能够代表用户或系统自主执行任务的AI实体。 |
-| AI Assistant | /eɪ aɪ əˈsɪstənt/ | 使用AI支持用户进行各种任务和决策的对话界面。 |
-| World Model | /wɜːrld ˈmɑːdəl/ | 环境的模拟表示，使AI能够预测结果并改进决策。 |
-| Embodied AI | /ɪmˈbɑːdid eɪ aɪ/ | 与物理世界交互并从中学习的AI系统，如机器人和无人机。 |
+| AI Agents | /eɪ aɪ ˈeɪdʒənts/ | 能够代表用户或系统自主执行任务的 AI 实体。 |
+| AI Assistant | /eɪ aɪ əˈsɪstənt/ | 使用 AI 支持用户进行各种任务和决策的对话界面。 |
+| World Model | /wɜːrld ˈmɑːdəl/ | 环境的模拟表示，使 AI 能够预测结果并改进决策。 |
+| Embodied AI | /ɪmˈbɑːdid eɪ aɪ/ | 与物理世界交互并从中学习的 AI 系统，如机器人和无人机。 |
 
 ## 机器学习
 
@@ -90,7 +90,7 @@
 | Backpropagation | [🔊](https://dict.youdao.com/dictvoice?audio=backpropagation&type=1) /ˌbækprɑːpəˈɡeɪʃən/ | 通过反向传播错误来训练神经网络的算法。 |
 | GAN | [🔊](https://dict.youdao.com/dictvoice?audio=GAN&type=1) /gæn/ | 生成对抗网络，两个神经网络竞争生成逼真数据。 |
 | ResNet | [🔊](https://dict.youdao.com/dictvoice?audio=ResNet&type=1) /ˈrɛzˌnɛt/ | 使用残差连接的深度神经网络架构。 |
-| Vision Transformer | [🔊](https://dict.youdao.com/dictvoice?audio=vision+transformer&type=1) /ˈvɪʒən trænsˈfɔːrmər/ | 适用于计算机视觉任务的Transformer架构。 |
+| Vision Transformer | [🔊](https://dict.youdao.com/dictvoice?audio=vision+transformer&type=1) /ˈvɪʒən trænsˈfɔːrmər/ | 适用于计算机视觉任务的 Transformer 架构。 |
 | Mixture of Experts | [🔊](https://dict.youdao.com/dictvoice?audio=mixture+of+experts&type=1) /ˈmɪkstʃər ʌv ˈɛkspərts/ | 使用多个专门化子模型的架构。 |
 | Activation Function | [🔊](https://dict.youdao.com/dictvoice?audio=activation+function&type=1) /ˌæktəˈveɪʃən ˈfʌŋkʃən/ | 决定神经网络节点输出的数学函数。 |
 | Dropout | [🔊](https://dict.youdao.com/dictvoice?audio=dropout&type=1) /ˈdrɑːpaʊt/ | 在训练过程中随机忽略神经元以防止过拟合的正则化技术。 |
@@ -113,25 +113,25 @@
 | Facial Recognition | [🔊](https://dict.youdao.com/dictvoice?audio=facial+recognition&type=1) /ˈfeɪʃəl ˌrɛkəɡˈnɪʃən/ | 从面部特征识别个人的技术。 |
 | OCR | [🔊](https://dict.youdao.com/dictvoice?audio=OCR&type=1) /oʊ si ɑːr/ | 光学字符识别，将文本图像转换为机器可读文本。 |
 | YOLO | [🔊](https://dict.youdao.com/dictvoice?audio=YOLO&type=1) /ˈjoʊloʊ/ | You Only Look Once，实时目标检测算法。 |
-| NLP | [🔊](https://dict.youdao.com/dictvoice?audio=NLP&type=1) /en el pi/ | 自然语言处理，AI理解和生成人类语言的能力。 |
-| NLU | [🔊](https://dict.youdao.com/dictvoice?audio=NLU&type=1) /en el ju/ | 自然语言理解，专注于理解文本含义的NLP子集。 |
-| NLG | [🔊](https://dict.youdao.com/dictvoice?audio=NLG&type=1) /en el dʒi/ | 自然语言生成，产生类似人类文本的AI能力。 |
-| Language Model | [🔊](https://dict.youdao.com/dictvoice?audio=language+model&type=1) /ˈlæŋɡwɪdʒ ˈmɑːdəl/ | 训练用于预测和生成词序列的AI系统。 |
-| LLM | [🔊](https://dict.youdao.com/dictvoice?audio=LLM&type=1) /el el em/ | 大型语言模型，在大量文本数据上训练的AI模型。 |
+| NLP | [🔊](https://dict.youdao.com/dictvoice?audio=NLP&type=1) /en el pi/ | 自然语言处理，AI 理解和生成人类语言的能力。 |
+| NLU | [🔊](https://dict.youdao.com/dictvoice?audio=NLU&type=1) /en el ju/ | 自然语言理解，专注于理解文本含义的 NLP 子集。 |
+| NLG | [🔊](https://dict.youdao.com/dictvoice?audio=NLG&type=1) /en el dʒi/ | 自然语言生成，产生类似人类文本的 AI 能力。 |
+| Language Model | [🔊](https://dict.youdao.com/dictvoice?audio=language+model&type=1) /ˈlæŋɡwɪdʒ ˈmɑːdəl/ | 训练用于预测和生成词序列的 AI 系统。 |
+| LLM | [🔊](https://dict.youdao.com/dictvoice?audio=LLM&type=1) /el el em/ | 大型语言模型，在大量文本数据上训练的 AI 模型。 |
 | Small Language Models | /smɔːl ˈlæŋɡwɪdʒ ˈmɑːdəlz/ | 大型语言模型的紧凑、高效替代品。 |
 | Named Entity Recognition | [🔊](https://dict.youdao.com/dictvoice?audio=named+entity+recognition&type=1) /neɪmd ˈɛntəti ˌrɛkəɡˈnɪʃən/ | 识别和分类文本中的实体。 |
 | Machine Translation | [🔊](https://dict.youdao.com/dictvoice?audio=machine+translation&type=1) /məˈʃiːn trænsˈleɪʃən/ | 自动在语言间翻译文本。 |
 | Sentiment Analysis | [🔊](https://dict.youdao.com/dictvoice?audio=sentiment+analysis&type=1) /ˈsɛntəmənt əˈnæləsɪs/ | 确定文本中的情感基调或观点。 |
 | Text Summarization | /tɛkst ˌsʌməraɪˈzeɪʃən/ | 自动创建较长文本的简洁摘要。 |
-| Question Answering | [🔊](https://dict.youdao.com/dictvoice?audio=question+answering&type=1) /ˈkwɛstʃən ˈænsərɪŋ/ | 用自然语言回答问题的AI系统。 |
+| Question Answering | [🔊](https://dict.youdao.com/dictvoice?audio=question+answering&type=1) /ˈkwɛstʃən ˈænsərɪŋ/ | 用自然语言回答问题的 AI 系统。 |
 | Tokenization | [🔊](https://dict.youdao.com/dictvoice?audio=tokenization&type=1) /ˌtoʊkənaɪˈzeɪʃən/ | 将文本分解为更小单元进行处理的过程。 |
 | Embedding | [🔊](https://dict.youdao.com/dictvoice?audio=embedding&type=1) /ɪmˈbɛdɪŋ/ | 捕捉语义关系的数据向量表示。 |
-| Prompt | [🔊](https://dict.youdao.com/dictvoice?audio=prompt&type=1) /prɑːmpt/ | 给予AI模型以生成所需输出的输入文本或指令。 |
-| Prompt Engineering | [🔊](https://dict.youdao.com/dictvoice?audio=prompt+engineering&type=1) /prɑːmpt ˌɛndʒəˈnɪrɪŋ/ | 为AI模型设计有效输入的技艺。 |
+| Prompt | [🔊](https://dict.youdao.com/dictvoice?audio=prompt&type=1) /prɑːmpt/ | 给予 AI 模型以生成所需输出的输入文本或指令。 |
+| Prompt Engineering | [🔊](https://dict.youdao.com/dictvoice?audio=prompt+engineering&type=1) /prɑːmpt ˌɛndʒəˈnɪrɪŋ/ | 为 AI 模型设计有效输入的技艺。 |
 | RAG | [🔊](https://dict.youdao.com/dictvoice?audio=RAG&type=1) /ræg/ | 检索增强生成，结合信息检索与文本生成。 |
-| BERT | [🔊](https://dict.youdao.com/dictvoice?audio=BERT&type=1) /bɜːrt/ | 来自Transformers的双向编码器表示，用于理解上下文的语言模型。 |
-| GPT | [🔊](https://dict.youdao.com/dictvoice?audio=GPT&type=1) /dʒi pi ti/ | 生成式预训练Transformer，专为自然语言处理任务设计的AI模型类型。 |
-| Video Understanding | /ˈvɪdioʊ ˌʌndərˈstændɪŋ/ | 分析和解释视频数据以提取物体和活动等有意义信息的AI领域。 |
+| BERT | [🔊](https://dict.youdao.com/dictvoice?audio=BERT&type=1) /bɜːrt/ | 来自 Transformers 的双向编码器表示，用于理解上下文的语言模型。 |
+| GPT | [🔊](https://dict.youdao.com/dictvoice?audio=GPT&type=1) /dʒi pi ti/ | 生成式预训练 Transformer，专为自然语言处理任务设计的 AI 模型类型。 |
+| Video Understanding | /ˈvɪdioʊ ˌʌndərˈstændɪŋ/ | 分析和解释视频数据以提取物体和活动等有意义信息的 AI 领域。 |
 | Automatic Speech Recognition | [🔊](https://dict.youdao.com/dictvoice?audio=automatic+speech+recognition&type=1) /ˌɔːtəˈmætɪk spiːtʃ ˌrekəɡˈnɪʃən/ | 将语音转录为文本的技术。 |
 | AI Search | /eɪ aɪ sɜːrtʃ/ | 允许用户使用自然语言查询而非关键词查找信息的搜索技术。 |
 
@@ -139,10 +139,10 @@
 
 | 术语 | 发音 | 定义 |
 | --- | ----------- | ----------- |
-| Predictive Analytics | [🔊](https://dict.youdao.com/dictvoice?audio=predictive+analytics&type=1) /prɪˈdɪktɪv ænəˈlɪtɪks/ | 使用AI预测未来趋势和行为。 |
-| Synthetic Data | /sɪnˈθɛtɪk ˈdeɪtə/ | 用于训练AI模型的人工生成数据。 |
+| Predictive Analytics | [🔊](https://dict.youdao.com/dictvoice?audio=predictive+analytics&type=1) /prɪˈdɪktɪv ænəˈlɪtɪks/ | 使用 AI 预测未来趋势和行为。 |
+| Synthetic Data | /sɪnˈθɛtɪk ˈdeɪtə/ | 用于训练 AI 模型的人工生成数据。 |
 | Vector Database | [🔊](https://dict.youdao.com/dictvoice?audio=vector+database&type=1) /ˈvektər ˈdeɪtəbeɪs/ | 专为存储和搜索高维向量嵌入而优化的数据库。 |
-| Recommendation System | [🔊](https://dict.youdao.com/dictvoice?audio=recommendation+system&type=1) /ˌrɛkəmənˈdeɪʃən ˈsɪstəm/ | 向用户推荐相关内容或产品的AI。 |
+| Recommendation System | [🔊](https://dict.youdao.com/dictvoice?audio=recommendation+system&type=1) /ˌrɛkəmənˈdeɪʃən ˈsɪstəm/ | 向用户推荐相关内容或产品的 AI。 |
 | Data Drift | /ˈdeɪtə drɪft/ | 随时间变化的数据分布，可能影响模型性能。 |
 | Feature Engineering | [🔊](https://dict.youdao.com/dictvoice?audio=feature+engineering&type=1) /ˈfiːtʃər ˌendʒəˈnɪrɪŋ/ | 为机器学习模型选择和转换变量的过程。 |
 | Dimensionality Reduction | [🔊](https://dict.youdao.com/dictvoice?audio=dimensionality+reduction&type=1) /dɪˌmenʃəˈnælɪti rɪˈdʌkʃən/ | 在保留信息的同时减少数据集中输入变量数量。 |
@@ -156,30 +156,30 @@
 | --- | ----------- | ----------- |
 | Model Deployment | [🔊](https://dict.youdao.com/dictvoice?audio=model+deployment&type=1) /ˈmɑːdəl dɪˈplɔɪmənt/ | 将训练好的模型投入生产使用的过程。 |
 | MLOps | /em el ɑːps/ | 在生产中部署和维护机器学习模型的实践。 |
-| Edge AI | /ɛdʒ eɪ aɪ/ | 在本地设备而非云服务器上运行AI模型。 |
+| Edge AI | /ɛdʒ eɪ aɪ/ | 在本地设备而非云服务器上运行 AI 模型。 |
 | Model Monitoring | /ˈmɑːdəl ˈmɑːnətərɪŋ/ | 在生产中持续跟踪模型性能和行为。 |
 | Shadow Deployment | /ˈʃædoʊ dɪˈplɔɪmənt/ | 在不影响最终用户的情况下与生产模型并行运行新模型。 |
 | Model Registry | /ˈmɑːdəl ˈrɛdʒɪstri/ | 存储和管理机器学习模型的集中式仓库。 |
-| Latency | [🔊](https://dict.youdao.com/dictvoice?audio=latency&type=1) /ˈleɪtənsi/ | AI系统响应中输入和输出之间的时间延迟。 |
-| Throughput | [🔊](https://dict.youdao.com/dictvoice?audio=throughput&type=1) /ˈθruːpʊt/ | AI系统每单位时间能处理的请求或操作数量。 |
-| Frugal AI | /ˈfruːɡəl eɪ aɪ/ | 优先考虑效率、成本效益和资源优化的AI系统开发。 |
+| Latency | [🔊](https://dict.youdao.com/dictvoice?audio=latency&type=1) /ˈleɪtənsi/ | AI 系统响应中输入和输出之间的时间延迟。 |
+| Throughput | [🔊](https://dict.youdao.com/dictvoice?audio=throughput&type=1) /ˈθruːpʊt/ | AI 系统每单位时间能处理的请求或操作数量。 |
+| Frugal AI | /ˈfruːɡəl eɪ aɪ/ | 优先考虑效率、成本效益和资源优化的 AI 系统开发。 |
 
 ## 伦理
 
 | 术语 | 发音 | 定义 |
 | --- | ----------- | ----------- |
-| AI Alignment | /eɪ aɪ əˈlaɪnmənt/ | 确保AI系统按照人类价值观和意图行事。 |
-| AI Bias | [🔊](https://dict.youdao.com/dictvoice?audio=AI+bias&type=1) /eɪ aɪ ˈbaɪəs/ | AI系统中导致歧视性结果的不公平偏见。 |
-| AI Governance | /eɪ aɪ ˈɡʌvərnəns/ | 管理AI开发和部署的框架和政策。 |
-| AI Safety | /eɪ aɪ ˈseɪfti/ | 专注于开发有益且安全的AI系统的领域。 |
-| Explainable AI | /ɪkˈspleɪnəbəl eɪ aɪ/ | 设计用于为其决策提供可理解解释的AI系统。 |
-| Fairness | [🔊](https://dict.youdao.com/dictvoice?audio=fairness&type=1) /ˈfɛrnɪs/ | 确保AI系统公平对待所有个人和群体的原则。 |
-| Responsible AI | /rɪˈspɑːnsəbəl eɪ aɪ/ | 考虑伦理影响的AI开发方法。 |
-| Red Teaming | /rɛd ˈtimɪŋ/ | 测试AI系统潜在有害输出或行为。 |
-| Model Cards | /ˈmɑːdəl kɑːrdz/ | 提供AI模型性能和局限性信息的文档。 |
-| Adversarial Examples | [🔊](https://dict.youdao.com/dictvoice?audio=adversarial+examples&type=1) /ædˈvɜːrsɛriəl ɪɡˈzæmpəlz/ | 专门设计用于导致AI模型出错的输入。 |
+| AI Alignment | /eɪ aɪ əˈlaɪnmənt/ | 确保 AI 系统按照人类价值观和意图行事。 |
+| AI Bias | [🔊](https://dict.youdao.com/dictvoice?audio=AI+bias&type=1) /eɪ aɪ ˈbaɪəs/ | AI 系统中导致歧视性结果的不公平偏见。 |
+| AI Governance | /eɪ aɪ ˈɡʌvərnəns/ | 管理 AI 开发和部署的框架和政策。 |
+| AI Safety | /eɪ aɪ ˈseɪfti/ | 专注于开发有益且安全的 AI 系统的领域。 |
+| Explainable AI | /ɪkˈspleɪnəbəl eɪ aɪ/ | 设计用于为其决策提供可理解解释的 AI 系统。 |
+| Fairness | [🔊](https://dict.youdao.com/dictvoice?audio=fairness&type=1) /ˈfɛrnɪs/ | 确保 AI 系统公平对待所有个人和群体的原则。 |
+| Responsible AI | /rɪˈspɑːnsəbəl eɪ aɪ/ | 考虑伦理影响的 AI 开发方法。 |
+| Red Teaming | /rɛd ˈtimɪŋ/ | 测试 AI 系统潜在有害输出或行为。 |
+| Model Cards | /ˈmɑːdəl kɑːrdz/ | 提供 AI 模型性能和局限性信息的文档。 |
+| Adversarial Examples | [🔊](https://dict.youdao.com/dictvoice?audio=adversarial+examples&type=1) /ædˈvɜːrsɛriəl ɪɡˈzæmpəlz/ | 专门设计用于导致 AI 模型出错的输入。 |
 | LIME | [🔊](https://ssl.gstatic.com/dictionary/static/sounds/oxford/lime--_us_1.mp3) /laɪm/ | 局部可解释模型不可知解释，解释单个预测的方法。 |
-| SHAP | [🔊](https://dict.youdao.com/dictvoice?audio=SHAP&type=1) /ʃæp/ | Shapley加法解释，使用博弈论解释模型预测的方法。 |
+| SHAP | [🔊](https://dict.youdao.com/dictvoice?audio=SHAP&type=1) /ʃæp/ | Shapley 加法解释，使用博弈论解释模型预测的方法。 |
 | Algorithmic Auditing | /ˌælɡəˈrɪðmɪk ˈɔːdɪtɪŋ/ | 对算法进行偏见、公平性和伦理关注的系统性检查。 |
 | Differential Privacy | /ˌdɪfəˈrɛnʃəl ˈpraɪvəsi/ | 量化和限制数据分析中隐私损失的数学框架。 |
 
@@ -188,18 +188,18 @@
 | 术语 | 发音 | 定义 |
 | --- | ----------- | ----------- |
 | API | [🔊](https://dict.youdao.com/dictvoice?audio=API&type=1) /eɪ pi aɪ/ | 应用程序编程接口，构建软件应用程序的协议集。 |
-| Cloud Computing | [🔊](https://dict.youdao.com/dictvoice?audio=cloud+computing&type=1) /klaʊd kəmˈpjuːtɪŋ/ | 通过互联网提供AI服务。 |
-| CUDA | [🔊](https://dict.youdao.com/dictvoice?audio=CUDA&type=1) /ˈkuːdə/ | NVIDIA的GPU编程并行计算平台。 |
-| Digital Transformation | [🔊](https://dict.youdao.com/dictvoice?audio=digital+transformation&type=1) /ˈdɪdʒɪtəl ˌtrænsfərˈmeɪʃən/ | 将AI和数字技术整合到业务运营中。 |
-| Distributed Computing | [🔊](https://dict.youdao.com/dictvoice?audio=distributed+computing&type=1) /dɪˈstrɪbjətɪd kəmˈpjuːtɪŋ/ | 使用多台计算机训练大型AI模型。 |
-| GPU | [🔊](https://dict.youdao.com/dictvoice?audio=GPU&type=1) /dʒi pi ju/ | 图形处理单元，专用于并行处理的硬件，是AI训练的必需品。 |
-| Neural Processing Unit | [🔊](https://dict.youdao.com/dictvoice?audio=neural+processing+unit&type=1) /ˈnʊrəl ˈproʊsɛsɪŋ ˈjunɪt/ | 专为AI计算设计的专用芯片。 |
-| NPU | [🔊](https://dict.youdao.com/dictvoice?audio=NPU&type=1) /en pi ju/ | 神经处理单元，专为AI计算设计的专用芯片。 |
-| TPU | [🔊](https://dict.youdao.com/dictvoice?audio=TPU&type=1) /ti pi ju/ | 张量处理单元，Google的定制AI加速器芯片。 |
+| Cloud Computing | [🔊](https://dict.youdao.com/dictvoice?audio=cloud+computing&type=1) /klaʊd kəmˈpjuːtɪŋ/ | 通过互联网提供 AI 服务。 |
+| CUDA | [🔊](https://dict.youdao.com/dictvoice?audio=CUDA&type=1) /ˈkuːdə/ | NVIDIA 的 GPU 编程并行计算平台。 |
+| Digital Transformation | [🔊](https://dict.youdao.com/dictvoice?audio=digital+transformation&type=1) /ˈdɪdʒɪtəl ˌtrænsfərˈmeɪʃən/ | 将 AI 和数字技术整合到业务运营中。 |
+| Distributed Computing | [🔊](https://dict.youdao.com/dictvoice?audio=distributed+computing&type=1) /dɪˈstrɪbjətɪd kəmˈpjuːtɪŋ/ | 使用多台计算机训练大型 AI 模型。 |
+| GPU | [🔊](https://dict.youdao.com/dictvoice?audio=GPU&type=1) /dʒi pi ju/ | 图形处理单元，专用于并行处理的硬件，是 AI 训练的必需品。 |
+| Neural Processing Unit | [🔊](https://dict.youdao.com/dictvoice?audio=neural+processing+unit&type=1) /ˈnʊrəl ˈproʊsɛsɪŋ ˈjunɪt/ | 专为 AI 计算设计的专用芯片。 |
+| NPU | [🔊](https://dict.youdao.com/dictvoice?audio=NPU&type=1) /en pi ju/ | 神经处理单元，专为 AI 计算设计的专用芯片。 |
+| TPU | [🔊](https://dict.youdao.com/dictvoice?audio=TPU&type=1) /ti pi ju/ | 张量处理单元，Google 的定制 AI 加速器芯片。 |
 | Hugging Face | [🔊](https://dict.youdao.com/dictvoice?audio=Hugging+Face&type=1) /ˈhʌɡɪŋ feɪs/ | 共享和部署机器学习模型的平台。 |
-| AI as a Service | /eɪ aɪ æz ə ˈsɜːrvɪs/ | 作为服务提供的基于云的AI能力。 |
-| TensorFlow | [🔊](https://dict.youdao.com/dictvoice?audio=TensorFlow&type=1) /ˈtɛnsərˌfloʊ/ | Google开发的开源机器学习框架。 |
-| PyTorch | [🔊](https://dict.youdao.com/dictvoice?audio=PyTorch&type=1) /ˈpaɪˌtɔːrtʃ/ | Meta开发的开源机器学习框架。 |
+| AI as a Service | /eɪ aɪ æz ə ˈsɜːrvɪs/ | 作为服务提供的基于云的 AI 能力。 |
+| TensorFlow | [🔊](https://dict.youdao.com/dictvoice?audio=TensorFlow&type=1) /ˈtɛnsərˌfloʊ/ | Google 开发的开源机器学习框架。 |
+| PyTorch | [🔊](https://dict.youdao.com/dictvoice?audio=PyTorch&type=1) /ˈpaɪˌtɔːrtʃ/ | Meta 开发的开源机器学习框架。 |
 | ONNX | [🔊](https://dict.youdao.com/dictvoice?audio=ONNX&type=1) /ɑːn eks/ | 开放神经网络交换，表示机器学习模型的标准。 |
 | MLflow | [🔊](https://dict.youdao.com/dictvoice?audio=MLflow&type=1) /em el floʊ/ | 管理机器学习生命周期的开源平台。 |
 | Weights & Biases | /weɪts ænd ˈbaɪəsɪz/ | 机器学习中实验跟踪和模型管理的平台。 |
@@ -208,18 +208,18 @@
 
 | 术语 | 发音 | 定义 |
 | --- | ----------- | ----------- |
-| Anthropic | [🔊](https://dict.youdao.com/dictvoice?audio=Anthropic&type=1) /ænˈθrɑːpɪk/ | 开发Claude的AI安全公司，专注于构建有用、无害、诚实的AI。 |
-| Claude | [🔊](https://dict.youdao.com/dictvoice?audio=Claude&type=1) /klɔːd/ | Anthropic开发的AI助手，设计为有用、无害、诚实。 |
-| ChatGPT | [🔊](https://dict.youdao.com/dictvoice?audio=ChatGPT&type=1) /tʃæt dʒi pi ti/ | OpenAI基于GPT架构开发的对话式AI模型。 |
-| Gemini | [🔊](https://dict.youdao.com/dictvoice?audio=Gemini&type=1) /ˈdʒɛməˌnaɪ/ | Google的旗舰大语言模型和AI助手。 |
-| Google DeepMind | /ˈɡuːɡəl diːp maɪnd/ | Google的AI研究部门，Gemini的创造者。 |
-| LLaMA | [🔊](https://dict.youdao.com/dictvoice?audio=LLaMA&type=1) /ˈlɑːmə/ | Meta的开源语言模型系列。 |
-| Meta AI | /ˈmeɪtə eɪ aɪ/ | Meta的AI研究部门，LLaMA模型的创造者。 |
-| Microsoft Copilot | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft+Copilot&type=1) /ˈmaɪkroʊsɔːft ˈkoʊpaɪlət/ | 整合到Microsoft产品中的AI助手。 |
-| OpenAI | [🔊](https://dict.youdao.com/dictvoice?audio=OpenAI&type=1) /ˈoʊpən eɪ aɪ/ | 创建GPT模型、ChatGPT和DALL-E的AI研究公司。 |
-| DALL-E | /ˈdɑːli/ | OpenAI的文本生成图像模型，根据文本描述创建图像。 |
-| Midjourney | [🔊](https://dict.youdao.com/dictvoice?audio=Midjourney&type=1) /ˈmɪdˌdʒɜːrni/ | 从文本提示创建艺术作品的AI图像生成工具。 |
+| Anthropic | [🔊](https://dict.youdao.com/dictvoice?audio=Anthropic&type=1) /ænˈθrɑːpɪk/ | 开发 Claude 的 AI 安全公司，专注于构建有用、无害、诚实的 AI。 |
+| Claude | [🔊](https://dict.youdao.com/dictvoice?audio=Claude&type=1) /klɔːd/ | Anthropic 开发的 AI 助手，设计为有用、无害、诚实。 |
+| ChatGPT | [🔊](https://dict.youdao.com/dictvoice?audio=ChatGPT&type=1) /tʃæt dʒi pi ti/ | OpenAI 基于 GPT 架构开发的对话式 AI 模型。 |
+| Gemini | [🔊](https://dict.youdao.com/dictvoice?audio=Gemini&type=1) /ˈdʒɛməˌnaɪ/ | Google 的旗舰大语言模型和 AI 助手。 |
+| Google DeepMind | /ˈɡuːɡəl diːp maɪnd/ | Google 的 AI 研究部门，Gemini 的创造者。 |
+| LLaMA | [🔊](https://dict.youdao.com/dictvoice?audio=LLaMA&type=1) /ˈlɑːmə/ | Meta 的开源语言模型系列。 |
+| Meta AI | /ˈmeɪtə eɪ aɪ/ | Meta 的 AI 研究部门，LLaMA 模型的创造者。 |
+| Microsoft Copilot | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft+Copilot&type=1) /ˈmaɪkroʊsɔːft ˈkoʊpaɪlət/ | 整合到 Microsoft 产品中的 AI 助手。 |
+| OpenAI | [🔊](https://dict.youdao.com/dictvoice?audio=OpenAI&type=1) /ˈoʊpən eɪ aɪ/ | 创建 GPT 模型、ChatGPT 和 DALL-E 的 AI 研究公司。 |
+| DALL-E | /ˈdɑːli/ | OpenAI 的文本生成图像模型，根据文本描述创建图像。 |
+| Midjourney | [🔊](https://dict.youdao.com/dictvoice?audio=Midjourney&type=1) /ˈmɪdˌdʒɜːrni/ | 从文本提示创建艺术作品的 AI 图像生成工具。 |
 | Stable Diffusion | [🔊](https://dict.youdao.com/dictvoice?audio=Stable+Diffusion&type=1) /ˈsteɪbəl dɪˈfjuːʒən/ | 用于生成图像的开源文本到图像扩散模型。 |
-| NVIDIA | [🔊](https://dict.youdao.com/dictvoice?audio=NVIDIA&type=1) /ɛnˈvɪdiə/ | 以GPU和AI计算平台闻名的技术公司。 |
-| Cohere | [🔊](https://dict.youdao.com/dictvoice?audio=Cohere&type=1) /koʊˈhɪr/ | 专门为企业提供大型语言模型的AI平台公司。 |
-| DeepSeek | [🔊](https://dict.youdao.com/dictvoice?audio=DeepSeek&type=1) /diːp siːk/ | 以开发竞争力强的开源语言模型而闻名的中国AI公司。 |
+| NVIDIA | [🔊](https://dict.youdao.com/dictvoice?audio=NVIDIA&type=1) /ɛnˈvɪdiə/ | 以 GPU 和 AI 计算平台闻名的技术公司。 |
+| Cohere | [🔊](https://dict.youdao.com/dictvoice?audio=Cohere&type=1) /koʊˈhɪr/ | 专门为企业提供大型语言模型的 AI 平台公司。 |
+| DeepSeek | [🔊](https://dict.youdao.com/dictvoice?audio=DeepSeek&type=1) /diːp siːk/ | 以开发竞争力强的开源语言模型而闻名的中国 AI 公司。 |
