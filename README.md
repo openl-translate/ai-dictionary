@@ -32,6 +32,10 @@ A dictionary of common AI terms.
 | Model | [🔊](https://dict.youdao.com/dictvoice?audio=model&type=1) /ˈmɑːdəl/ | The output of a machine learning algorithm trained on data, used to make predictions. |
 | Multimodal | [🔊](https://dict.youdao.com/dictvoice?audio=multimodal&type=1) /ˌmʌltiˈmoʊdəl/ | AI systems that can process multiple types of data (text, images, audio). |
 | Reasoning Models | /ˈrizənɪŋ ˈmɑːdəlz/ | AI models designed to perform step-by-step problem solving. |
+| Diffusion Models | /dɪˈfjuːʒən ˈmɑːdəlz/ | Generative models that create data by gradually denoising random inputs. |
+| RLHF | /ɑːr el eɪtʃ ef/ | Reinforcement Learning from Human Feedback, technique used to train models like ChatGPT. |
+| In-Context Learning | /ɪn ˈkɑːntekst ˈlɜːrnɪŋ/ | Model's ability to learn and adapt from examples provided in the input prompt. |
+| Chain-of-Thought | /tʃeɪn ʌv θɔːt/ | Prompting technique that encourages step-by-step reasoning in AI responses. |
 
 ## Machine Learning
 
@@ -52,6 +56,14 @@ A dictionary of common AI terms.
 | Gradient Descent | [🔊](https://dict.youdao.com/dictvoice?audio=gradient+descent&type=1) /ˈɡreɪdiənt dɪˈsɛnt/ | Optimization algorithm for training neural networks. |
 | Hyperparameter | [🔊](https://dict.youdao.com/dictvoice?audio=hyperparameter&type=1) /ˈhaɪpərpəˌræmɪtər/ | Configuration settings that control the learning process of ML algorithms. |
 | Loss Function | [🔊](https://dict.youdao.com/dictvoice?audio=loss+function&type=1) /lɔːs ˈfʌŋkʃən/ | Measure of how wrong a model's predictions are. |
+| Cross-Validation | [🔊](https://dict.youdao.com/dictvoice?audio=cross+validation&type=1) /krɔːs væləˈdeɪʃən/ | Technique for evaluating model performance by splitting data into multiple train/test sets. |
+| Regularization | [🔊](https://dict.youdao.com/dictvoice?audio=regularization&type=1) /ˌreɡjələrəˈzeɪʃən/ | Techniques to prevent overfitting by adding penalty terms to the model. |
+| Ensemble Methods | [🔊](https://dict.youdao.com/dictvoice?audio=ensemble+methods&type=1) /ɑːnˈsɑːmbəl ˈmeθədz/ | Combining multiple models to improve overall performance and reduce errors. |
+| Hyperparameter Tuning | /ˈhaɪpərpəˌræmɪtər ˈtunɪŋ/ | Process of optimizing model configuration settings for best performance. |
+| AutoML | [🔊](https://dict.youdao.com/dictvoice?audio=AutoML&type=1) /ˈɔːtoʊ em el/ | Automated Machine Learning, automating the process of applying ML to real-world problems. |
+| Federated Learning | [🔊](https://dict.youdao.com/dictvoice?audio=federated+learning&type=1) /ˈfedəreɪtəd ˈlɜːrnɪŋ/ | Training models across decentralized data without sharing raw data. |
+| Meta-Learning | /ˈmetə ˈlɜːrnɪŋ/ | Learning to learn, where models adapt quickly to new tasks with minimal data. |
+| Continual Learning | [🔊](https://dict.youdao.com/dictvoice?audio=continual+learning&type=1) /kənˈtɪnjuəl ˈlɜːrnɪŋ/ | Ability to learn new tasks while retaining knowledge of previous tasks. |
 
 ## Neural Networks
 
@@ -69,6 +81,13 @@ A dictionary of common AI terms.
 | ResNet | [🔊](https://dict.youdao.com/dictvoice?audio=ResNet&type=1) /ˈrɛzˌnɛt/ | Deep neural network architecture using residual connections. |
 | Vision Transformer | [🔊](https://dict.youdao.com/dictvoice?audio=vision+transformer&type=1) /ˈvɪʒən trænsˈfɔːrmər/ | Transformer architecture adapted for computer vision tasks. |
 | Mixture of Experts | [🔊](https://dict.youdao.com/dictvoice?audio=mixture+of+experts&type=1) /ˈmɪkstʃər ʌv ˈɛkspərts/ | Architecture using multiple specialized sub-models. |
+| Activation Function | [🔊](https://dict.youdao.com/dictvoice?audio=activation+function&type=1) /ˌæktəˈveɪʃən ˈfʌŋkʃən/ | Mathematical function that determines the output of a neural network node. |
+| Dropout | [🔊](https://dict.youdao.com/dictvoice?audio=dropout&type=1) /ˈdrɑːpaʊt/ | Regularization technique that randomly ignores neurons during training to prevent overfitting. |
+| Batch Normalization | [🔊](https://dict.youdao.com/dictvoice?audio=batch+normalization&type=1) /bætʃ ˌnɔːrməlaɪˈzeɪʃən/ | Technique to normalize inputs of each layer to improve training stability and speed. |
+| Skip Connections | /skɪp kəˈnekʃənz/ | Direct connections between non-adjacent layers in neural networks. |
+| LoRA | [🔊](https://dict.youdao.com/dictvoice?audio=LoRA&type=1) /ˈlɔːrə/ | Low-Rank Adaptation, efficient method for fine-tuning large language models. |
+| Model Quantization | [🔊](https://dict.youdao.com/dictvoice?audio=model+quantization&type=1) /ˈmɑːdəl ˌkwɑːntəˈzeɪʃən/ | Reducing model size by using lower precision numbers for weights and activations. |
+| Knowledge Distillation | /ˈnɑːlɪdʒ ˌdɪstəˈleɪʃən/ | Training smaller models to mimic the behavior of larger, more complex models. |
 
 ## Vision & Language
 
@@ -110,6 +129,10 @@ A dictionary of common AI terms.
 | Synthetic Data | /sɪnˈθɛtɪk ˈdeɪtə/ | Artificially generated data used for training AI models. |
 | Vector Database | [🔊](https://dict.youdao.com/dictvoice?audio=vector+database&type=1) /ˈvektər ˈdeɪtəbeɪs/ | Database optimized for storing and searching high-dimensional vector embeddings. |
 | Recommendation System | [🔊](https://dict.youdao.com/dictvoice?audio=recommendation+system&type=1) /ˌrɛkəmənˈdeɪʃən ˈsɪstəm/ | AI that suggests relevant content or products to users. |
+| Data Drift | /ˈdeɪtə drɪft/ | Changes in data distribution over time that can affect model performance. |
+| Feature Engineering | [🔊](https://dict.youdao.com/dictvoice?audio=feature+engineering&type=1) /ˈfiːtʃər ˌendʒəˈnɪrɪŋ/ | Process of selecting and transforming variables for machine learning models. |
+| Dimensionality Reduction | [🔊](https://dict.youdao.com/dictvoice?audio=dimensionality+reduction&type=1) /dɪˌmenʃəˈnælɪti rɪˈdʌkʃən/ | Reducing the number of input variables in a dataset while preserving information. |
+| Data Augmentation | [🔊](https://dict.youdao.com/dictvoice?audio=data+augmentation&type=1) /ˈdeɪtə ˌɔːɡmenˈteɪʃən/ | Techniques to increase dataset size by creating modified versions of existing data. |
 
 ## Deployment
 
@@ -118,6 +141,11 @@ A dictionary of common AI terms.
 | Model Deployment | [🔊](https://dict.youdao.com/dictvoice?audio=model+deployment&type=1) /ˈmɑːdəl dɪˈplɔɪmənt/ | Process of putting trained models into production use. |
 | MLOps | /em el ɑːps/ | Practices for deploying and maintaining machine learning models in production. |
 | Edge AI | /ɛdʒ eɪ aɪ/ | Running AI models on local devices rather than cloud servers. |
+| Model Monitoring | /ˈmɑːdəl ˈmɑːnətərɪŋ/ | Continuously tracking model performance and behavior in production. |
+| Shadow Deployment | /ˈʃædoʊ dɪˈplɔɪmənt/ | Running new models alongside production models without affecting end users. |
+| Model Registry | /ˈmɑːdəl ˈrɛdʒɪstri/ | Centralized repository for storing and managing machine learning models. |
+| Latency | [🔊](https://dict.youdao.com/dictvoice?audio=latency&type=1) /ˈleɪtənsi/ | Time delay between input and output in AI system responses. |
+| Throughput | [🔊](https://dict.youdao.com/dictvoice?audio=throughput&type=1) /ˈθruːpʊt/ | Number of requests or operations an AI system can handle per unit time. |
 
 ## Ethics
 
@@ -131,6 +159,12 @@ A dictionary of common AI terms.
 | Fairness | [🔊](https://dict.youdao.com/dictvoice?audio=fairness&type=1) /ˈfɛrnɪs/ | Principle ensuring AI systems treat all individuals and groups equitably. |
 | Responsible AI | /rɪˈspɑːnsəbəl eɪ aɪ/ | Approach to developing AI that considers ethical implications. |
 | Red Teaming | /rɛd ˈtimɪŋ/ | Testing AI systems for potential harmful outputs or behaviors. |
+| Model Cards | /ˈmɑːdəl kɑːrdz/ | Documentation that provides information about AI model performance and limitations. |
+| Adversarial Examples | [🔊](https://dict.youdao.com/dictvoice?audio=adversarial+examples&type=1) /ædˈvɜːrsɛriəl ɪɡˈzæmpəlz/ | Inputs specifically designed to cause AI models to make mistakes. |
+| LIME | /laɪm/ | Local Interpretable Model-agnostic Explanations, method for explaining individual predictions. |
+| SHAP | [🔊](https://dict.youdao.com/dictvoice?audio=SHAP&type=1) /ʃæp/ | SHapley Additive exPlanations, method for explaining model predictions using game theory. |
+| Algorithmic Auditing | /ˌælɡəˈrɪðmɪk ˈɔːdɪtɪŋ/ | Systematic examination of algorithms for bias, fairness, and ethical concerns. |
+| Differential Privacy | /ˌdɪfəˈrɛnʃəl ˈpraɪvəsi/ | Mathematical framework for quantifying and limiting privacy loss in data analysis. |
 
 ## Tools
 
@@ -147,6 +181,11 @@ A dictionary of common AI terms.
 | TPU | [🔊](https://dict.youdao.com/dictvoice?audio=TPU&type=1) /ti pi ju/ | Tensor Processing Unit, Google's custom AI accelerator chips. |
 | Hugging Face | [🔊](https://dict.youdao.com/dictvoice?audio=Hugging+Face&type=1) /ˈhʌɡɪŋ feɪs/ | Platform for sharing and deploying ML models. |
 | AI as a Service | /eɪ aɪ æz ə ˈsɜːrvɪs/ | Cloud-based AI capabilities offered as services. |
+| TensorFlow | [🔊](https://dict.youdao.com/dictvoice?audio=TensorFlow&type=1) /ˈtɛnsərˌfloʊ/ | Open-source machine learning framework developed by Google. |
+| PyTorch | [🔊](https://dict.youdao.com/dictvoice?audio=PyTorch&type=1) /ˈpaɪˌtɔːrtʃ/ | Open-source machine learning framework developed by Meta. |
+| ONNX | [🔊](https://dict.youdao.com/dictvoice?audio=ONNX&type=1) /ɑːn eks/ | Open Neural Network Exchange, standard for representing machine learning models. |
+| MLflow | [🔊](https://dict.youdao.com/dictvoice?audio=MLflow&type=1) /em el floʊ/ | Open-source platform for managing machine learning lifecycle. |
+| Weights & Biases | /weɪts ænd ˈbaɪəsɪz/ | Platform for experiment tracking and model management in ML. |
 
 ## Companies
 
@@ -161,3 +200,8 @@ A dictionary of common AI terms.
 | Meta AI | /ˈmeɪtə eɪ aɪ/ | Meta's AI research division, creators of LLaMA models. |
 | Microsoft Copilot | [🔊](https://dict.youdao.com/dictvoice?audio=Microsoft+Copilot&type=1) /ˈmaɪkroʊsɔːft ˈkoʊpaɪlət/ | AI assistant integrated across Microsoft products. |
 | OpenAI | [🔊](https://dict.youdao.com/dictvoice?audio=OpenAI&type=1) /ˈoʊpən eɪ aɪ/ | AI research company that created GPT models, ChatGPT, and DALL-E. |
+| DALL-E | /ˈdɑːli/ | OpenAI's text-to-image generation model that creates images from textual descriptions. |
+| Midjourney | [🔊](https://dict.youdao.com/dictvoice?audio=Midjourney&type=1) /ˈmɪdˌdʒɜːrni/ | AI-powered image generation tool that creates artwork from text prompts. |
+| Stable Diffusion | [🔊](https://dict.youdao.com/dictvoice?audio=Stable+Diffusion&type=1) /ˈsteɪbəl dɪˈfjuːʒən/ | Open-source text-to-image diffusion model for generating images. |
+| NVIDIA | [🔊](https://dict.youdao.com/dictvoice?audio=NVIDIA&type=1) /ɛnˈvɪdiə/ | Technology company known for GPUs and AI computing platforms. |
+| Cohere | [🔊](https://dict.youdao.com/dictvoice?audio=Cohere&type=1) /koʊˈhɪr/ | AI platform company specializing in large language models for enterprises. |
