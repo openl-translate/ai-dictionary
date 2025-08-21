@@ -21,13 +21,15 @@ A dictionary of common AI terms.
 | Terms | Pronunciation | Definition |
 | --- | ----------- | ----------- |
 | AGI | [🔊](https://dict.youdao.com/dictvoice?audio=AGI&type=1) /eɪ dʒi aɪ/ | Artificial General Intelligence, hypothetical AI with human-level cognitive abilities across all domains. |
+| ASI | [🔊](https://dict.youdao.com/dictvoice?audio=ASI&type=1) /eɪ es aɪ/ | Artificial Superintelligence, hypothetical AI that surpasses human intelligence in all domains. |
 | AI | [🔊](https://dict.youdao.com/dictvoice?audio=AI&type=1) /eɪ aɪ/ | Artificial Intelligence, computer systems that can perform tasks requiring human intelligence. |
 | Algorithm | [🔊](https://dict.youdao.com/dictvoice?audio=algorithm&type=1) /ˈælɡərɪðəm/ | A set of rules or instructions for solving problems or performing computations. |
 | Automation | [🔊](https://dict.youdao.com/dictvoice?audio=automation&type=1) /ˌɔːtəˈmeɪʃən/ | Using AI to perform tasks without human intervention. |
-| Chatbot | [🔊](https://dict.youdao.com/dictvoice?audio=chatbot&type=1) /ˈtʃætbɑːt/ | Computer program designed to simulate conversation with humans. |
+| Chatbot | [🔊](https://ssl.gstatic.com/dictionary/static/sounds/oxford/chatbot--_us_1.mp3) /ˈtʃætbɑːt/ | Computer program designed to simulate conversation with humans. |
 | Constitutional AI | /ˌkɑːnstəˈtuːʃənəl eɪ aɪ/ | Training approach that teaches AI to follow a set of principles. |
 | Conversational AI | /ˌkɑːnvərˈseɪʃənəl eɪ aɪ/ | Technology enabling natural dialogue between humans and machines. |
 | Foundation Models | /faʊnˈdeɪʃən ˈmɑːdəlz/ | Large-scale models trained on diverse data, serving as base for many applications. |
+| Generative AI | [🔊](https://dict.youdao.com/dictvoice?audio=Generative+AI&type=1) /ˈdʒenərətɪv eɪ aɪ/ | AI systems that create new content such as text, images, audio, or video based on training data. |
 | Hallucination | [🔊](https://dict.youdao.com/dictvoice?audio=hallucination&type=1) /həˌluːsɪˈneɪʃən/ | When AI generates false or nonsensical information presented as fact. |
 | Model | [🔊](https://dict.youdao.com/dictvoice?audio=model&type=1) /ˈmɑːdəl/ | The output of a machine learning algorithm trained on data, used to make predictions. |
 | Multimodal | [🔊](https://dict.youdao.com/dictvoice?audio=multimodal&type=1) /ˌmʌltiˈmoʊdəl/ | AI systems that can process multiple types of data (text, images, audio). |
@@ -36,6 +38,11 @@ A dictionary of common AI terms.
 | RLHF | /ɑːr el eɪtʃ ef/ | Reinforcement Learning from Human Feedback, technique used to train models like ChatGPT. |
 | In-Context Learning | /ɪn ˈkɑːntekst ˈlɜːrnɪŋ/ | Model's ability to learn and adapt from examples provided in the input prompt. |
 | Chain-of-Thought | /tʃeɪn ʌv θɔːt/ | Prompting technique that encourages step-by-step reasoning in AI responses. |
+| Autonomous | [🔊](https://dict.youdao.com/dictvoice?audio=autonomous&type=1) /ɔːˈtɑːnəməs/ | A machine that can perform tasks without needing human intervention. |
+| AI Agents | /eɪ aɪ ˈeɪdʒənts/ | AI entities that can perform tasks autonomously on behalf of users or systems. |
+| AI Assistant | /eɪ aɪ əˈsɪstənt/ | A conversational interface that uses AI to support users in various tasks and decision-making. |
+| World Model | /wɜːrld ˈmɑːdəl/ | A simulated representation of an environment that enables AI to predict outcomes and improve decision-making. |
+| Embodied AI | /ɪmˈbɑːdid eɪ aɪ/ | AI systems that interact with and learn from the physical world, like robots and drones. |
 
 ## Machine Learning
 
@@ -120,6 +127,9 @@ A dictionary of common AI terms.
 | RAG | [🔊](https://dict.youdao.com/dictvoice?audio=RAG&type=1) /ræg/ | Retrieval-Augmented Generation, combining information retrieval with text generation. |
 | BERT | [🔊](https://dict.youdao.com/dictvoice?audio=BERT&type=1) /bɜːrt/ | Bidirectional Encoder Representations from Transformers, a language model for understanding context. |
 | GPT | [🔊](https://dict.youdao.com/dictvoice?audio=GPT&type=1) /dʒi pi ti/ | Generative Pre-trained Transformer, a type of AI model designed for natural language processing tasks. |
+| Video Understanding | /ˈvɪdioʊ ˌʌndərˈstændɪŋ/ | AI field that analyzes and interprets video data to extract meaningful information like objects and activities. |
+| Automatic Speech Recognition | [🔊](https://dict.youdao.com/dictvoice?audio=automatic+speech+recognition&type=1) /ˌɔːtəˈmætɪk spiːtʃ ˌrekəɡˈnɪʃən/ | Technology that transcribes spoken language into text. |
+| AI Search | /eɪ aɪ sɜːrtʃ/ | Search technology that allows users to find information using natural language queries instead of keywords. |
 
 ## Data
 
@@ -133,6 +143,8 @@ A dictionary of common AI terms.
 | Feature Engineering | [🔊](https://dict.youdao.com/dictvoice?audio=feature+engineering&type=1) /ˈfiːtʃər ˌendʒəˈnɪrɪŋ/ | Process of selecting and transforming variables for machine learning models. |
 | Dimensionality Reduction | [🔊](https://dict.youdao.com/dictvoice?audio=dimensionality+reduction&type=1) /dɪˌmenʃəˈnælɪti rɪˈdʌkʃən/ | Reducing the number of input variables in a dataset while preserving information. |
 | Data Augmentation | [🔊](https://dict.youdao.com/dictvoice?audio=data+augmentation&type=1) /ˈdeɪtə ˌɔːɡmenˈteɪʃən/ | Techniques to increase dataset size by creating modified versions of existing data. |
+| Big Data | [🔊](https://dict.youdao.com/dictvoice?audio=big+data&type=1) /bɪɡ ˈdeɪtə/ | Datasets that are too large or complex to be processed by traditional data processing applications. |
+| Knowledge Graph | /ˈnɑːlɪdʒ ɡræf/ | A semantic network that organizes information into entities and relationships, enabling machines to understand context. |
 
 ## Deployment
 
@@ -146,6 +158,7 @@ A dictionary of common AI terms.
 | Model Registry | /ˈmɑːdəl ˈrɛdʒɪstri/ | Centralized repository for storing and managing machine learning models. |
 | Latency | [🔊](https://dict.youdao.com/dictvoice?audio=latency&type=1) /ˈleɪtənsi/ | Time delay between input and output in AI system responses. |
 | Throughput | [🔊](https://dict.youdao.com/dictvoice?audio=throughput&type=1) /ˈθruːpʊt/ | Number of requests or operations an AI system can handle per unit time. |
+| Frugal AI | /ˈfruːɡəl eɪ aɪ/ | Development of AI systems that prioritize efficiency, cost-effectiveness, and resource optimization. |
 
 ## Ethics
 
@@ -205,3 +218,4 @@ A dictionary of common AI terms.
 | Stable Diffusion | [🔊](https://dict.youdao.com/dictvoice?audio=Stable+Diffusion&type=1) /ˈsteɪbəl dɪˈfjuːʒən/ | Open-source text-to-image diffusion model for generating images. |
 | NVIDIA | [🔊](https://dict.youdao.com/dictvoice?audio=NVIDIA&type=1) /ɛnˈvɪdiə/ | Technology company known for GPUs and AI computing platforms. |
 | Cohere | [🔊](https://dict.youdao.com/dictvoice?audio=Cohere&type=1) /koʊˈhɪr/ | AI platform company specializing in large language models for enterprises. |
+| DeepSeek | [🔊](https://dict.youdao.com/dictvoice?audio=DeepSeek&type=1) /diːp siːk/ | Chinese AI company known for developing competitive open-source language models. |
