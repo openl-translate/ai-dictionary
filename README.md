@@ -174,7 +174,7 @@ A dictionary of common AI terms.
 | Red Teaming | /rɛd ˈtimɪŋ/ | Testing AI systems for potential harmful outputs or behaviors. |
 | Model Cards | /ˈmɑːdəl kɑːrdz/ | Documentation that provides information about AI model performance and limitations. |
 | Adversarial Examples | [🔊](https://dict.youdao.com/dictvoice?audio=adversarial+examples&type=1) /ædˈvɜːrsɛriəl ɪɡˈzæmpəlz/ | Inputs specifically designed to cause AI models to make mistakes. |
-| LIME | /laɪm/ | Local Interpretable Model-agnostic Explanations, method for explaining individual predictions. |
+| LIME | [🔊](https://ssl.gstatic.com/dictionary/static/sounds/oxford/lime--_us_1.mp3) /laɪm/ | Local Interpretable Model-agnostic Explanations, method for explaining individual predictions. |
 | SHAP | [🔊](https://dict.youdao.com/dictvoice?audio=SHAP&type=1) /ʃæp/ | SHapley Additive exPlanations, method for explaining model predictions using game theory. |
 | Algorithmic Auditing | /ˌælɡəˈrɪðmɪk ˈɔːdɪtɪŋ/ | Systematic examination of algorithms for bias, fairness, and ethical concerns. |
 | Differential Privacy | /ˌdɪfəˈrɛnʃəl ˈpraɪvəsi/ | Mathematical framework for quantifying and limiting privacy loss in data analysis. |
