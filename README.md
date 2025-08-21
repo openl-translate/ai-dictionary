@@ -2,6 +2,10 @@
 
 A dictionary of common AI terms.
 
+English · [简体中文](/local/README-zh_CN.md)
+
+> Made by [OpenL Translate](https://openl.io/)
+
 ## Categories
 
 - [**Basics**](#basics) - Core AI concepts and definitions
